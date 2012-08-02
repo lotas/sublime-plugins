@@ -1,0 +1,9 @@
+Howto add:
+
+Preferences - Key Bindings
+Add trigger:
+
+{ "keys": ["ctrl+f1"], "command": "goto_commit" }
+
+Copy gotocommit.py -> ~/config/sublime-text-2/Packages/User/
+
