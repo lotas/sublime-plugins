@@ -1,3 +1,9 @@
+
+#Goto Commit
+
+Plugin looks via blame author of the line and opens corresponding commit in github
+
+
 Howto add:
 
 Preferences - Key Bindings
